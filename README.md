@@ -133,6 +133,3 @@ All preferences are saved to `user_data.json` for persistence between sessions.
 - If the NewsAPI requests fail, check your internet connection and API key.
 - If summarization fails, ensure your Groq API key is correctly set.
 
-## License
-
-MIT
