@@ -30,22 +30,6 @@ A LangChain-based application that retrieves news articles on specific topics an
    pip install langchain langchain_community langchain_groq requests chromadb faiss-cpu sentence-transformers
    ```
 
-   Or create a requirements.txt file with the following content and run:
-   ```
-   langchain==0.1.0
-   langchain_community==0.0.10
-   langchain_groq==0.1.0
-   requests==2.31.0
-   chromadb==0.4.22
-   faiss-cpu==1.7.4
-   sentence-transformers==2.5.1
-   ```
-
-   Then install with:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 3. Set environment variables:
    ```bash
    # Windows
